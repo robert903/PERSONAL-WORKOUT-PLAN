@@ -1,20 +1,36 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Fitness Planner</title>
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness Plan</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body class="flex justify-center items-center min-h-screen bg-gray-100">
-    <div id="app" class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
-        <h2 id="day" class="block text-gray-700 text-sm font-bold mb-2"></h2>
-        <h3 class="block text-gray-700 text-sm font-bold mb-2">Today's Workout:</h3>
-        <ul id="workout" class="mb-4"></ul>
-        <h3 class="block text-gray-700 text-sm font-bold mb-2">Today's Meal:</h3>
-        <p id="meal" class="mb-4"></p>
-        <h3 class="block text-gray-700 text-sm font-bold mb-2">Motivational Quote:</h3>
-        <p id="quote" class="mb-4"></p>
-        <h3 class="block text-gray-700 text-sm font-bold mb-2">Grocery List:</h3>
-        <ul id="grocery"></ul>
+<body>
+    <div class="min-h-screen bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
+        <div class="relative py-3 sm:max-w-xl sm:mx-auto">
+            <div class="absolute inset-0 bg-gradient-to-r from-blue-400 to-blue-600 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
+            <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                <div class="max-w-md mx-auto">
+                    <div>
+                        <h1 class="text-2xl font-semibold">Today's Workout:</h1>
+                        <p id="workout" class="mt-2 text-gray-600"></p>
+                    </div>
+                    <div class="mt-5">
+                        <h1 class="text-2xl font-semibold">Today's Dinner:</h1>
+                        <p id="meal" class="mt-2 text-gray-600"></p>
+                    </div>
+                    <div class="mt-5">
+                        <h1 class="text-2xl font-semibold">Motivational Quote:</h1>
+                        <p id="quote" class="mt-2 text-gray-600"></p>
+                    </div>
+                    <div class="mt-5">
+                        <h1 class="text-2xl font-semibold">Grocery List:</h1>
+                        <p id="grocery" class="mt-2 text-gray-600"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     <script src="main.js"></script>
 </body>
