@@ -1,0 +1,159 @@
+{
+    "groceries": {
+        "week1": ["Chicken Breasts: 3 pounds", "Pork Chops: 3 pounds", "Beef: 3 pounds", "Broccoli: 2 bunches", "Mixed Vegetables: 3 bags", "Cabbage: 2 heads", "Sweet Potatoes: 3 pounds", "Brown Rice: 1 bag", "Quinoa: 1 bag"],
+        "week2": ["Chicken Breasts: 3 pounds", "Pork Chops: 3 pounds", "Beef: 3 pounds", "Broccoli: 2 bunches", "Mixed Vegetables: 3 bags", "Cabbage: 2 heads", "Sweet Potatoes: 3 pounds", "Brown Rice: 1 bag", "Quinoa: 1 bag"],
+        "week3": ["Chicken Breasts: 3 pounds", "Pork Chops: 3 pounds", "Beef: 3 pounds", "Broccoli: 2 bunches", "Mixed Vegetables: 3 bags", "Cabbage: 2 heads", "Sweet Potatoes: 3 pounds", "Brown Rice: 1 bag", "Quinoa: 1 bag"],
+        "week4": ["Chicken Breasts: 3 pounds", "Pork Chops: 3 pounds", "Beef: 3 pounds", "Broccoli: 2 bunches", "Mixed Vegetables: 3 bags", "Cabbage: 2 heads", "Sweet Potatoes: 3 pounds", "Brown Rice: 1 bag", "Quinoa: 1 bag"]
+    },
+
+	"day1": {
+		"workout": ["Dumbbell Bench Press: 3 sets of 12 repetitions", "Dumbbell Flyes: 3 sets of 12 repetitions", "Triceps Dips: 3 sets to failure", "Skull Crushers (with Curl Bar): 3 sets of 12 repetitions"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "The only place where success comes before work is in the dictionary. - Vidal Sassoon"
+	},
+	"day2": {
+		"workout": ["Elliptical Machine: 30-45 minutes at a moderate pace"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "The harder you work for something, the greater you'll feel when you achieve it."
+	},
+	"day3": {
+		"workout": ["Bent Over Rows (with Curl Bar): 3 sets of 12 repetitions", "Dumbbell Deadlift: 3 sets of 12 repetitions", "Dumbbell Curls: 3 sets of 12 repetitions", "Hammer Curls: 3 sets of 12 repetitions"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "Dream it. Believe it. Achieve it."
+	},
+	"day4": {
+		"workout": ["Elliptical Machine: 30-45 minutes at a higher intensity"],
+		"meal": "Grilled Pork Chops with Mixed Vegetable Stir Fry (without shellfish) and Quinoa",
+		"quote": "Your body can stand almost anything. It's your mind that you have to convince."
+	},
+	"day5": {
+		"workout": ["Dumbbell Squats: 3 sets of 12 repetitions", "Dumbbell Lunges: 3 sets of 12 repetitions each leg", "Dumbbell Shoulder Press: 3 sets of 12 repetitions", "Dumbbell Lateral Raise: 3 sets of 12 repetitions"],
+		"meal": "Grilled Pork Chops with Mixed Vegetable Stir Fry (without shellfish) and Quinoa",
+		"quote": "Push yourself because no one else is going to do it for you."
+	},
+	"day6": {
+		"workout": ["Rest"],
+		"meal": "Grilled Pork Chops with Mixed Vegetable Stir Fry (without shellfish) and Quinoa",
+		"quote": "Success starts with self-discipline."
+	},
+	"day7": {
+		"workout": ["Rest"],
+		"meal": "Beef Rundown (sans dairy) with Steamed Cabbage and Sweet Potato",
+		"quote": "Motivation is what gets you started. Habit is what keeps you going."
+	},
+	"day8": {
+		"workout": ["Dumbbell Bench Press: 3 sets of 12 repetitions", "Dumbbell Flyes: 3 sets of 12 repetitions", "Triceps Dips: 3 sets to failure", "Skull Crushers (with Curl Bar): 3 sets of 12 repetitions"],
+		"meal": "Beef Rundown (sans dairy) with Steamed Cabbage and Sweet Potato",
+		"quote": "Don't stop when you're tired. Stop when you're done."
+	},
+	"day9": {
+		"workout": ["Elliptical Machine: 30-45 minutes at a moderate pace"],
+		"meal": "Beef Rundown (sans dairy) with Steamed Cabbage and Sweet Potato",
+		"quote": "When you feel like quitting, think about why you started."
+	},
+	"day10": {
+		"workout": ["Bent Over Rows (with Curl Bar): 3 sets of 12 repetitions", "Dumbbell Deadlift: 3 sets of 12 repetitions", "Dumbbell Curls: 3 sets of 12 repetitions", "Hammer Curls: 3 sets of 12 repetitions"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "The only bad workout is the one that didn't happen."
+	},
+	"day11": {
+		"workout": ["Elliptical Machine: 30-45 minutes at a higher intensity"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "It’s not about perfect. It’s about effort."
+	},
+	"day12": {
+		"workout": ["Dumbbell Squats: 3 sets of 12 repetitions", "Dumbbell Lunges: 3 sets of 12 repetitions each leg", "Dumbbell Shoulder Press: 3 sets of 12 repetitions", "Dumbbell Lateral Raise: 3 sets of 12 repetitions"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "If it doesn’t challenge you, it doesn’t change you."
+	},
+	"day13": {
+		"workout": ["Rest"],
+		"meal": "Grilled Pork Chops with Mixed Vegetable Stir Fry (without shellfish) and Quinoa",
+		"quote": "Your body achieves what your mind believes."
+	},
+	"day14": {
+		"workout": ["Rest"],
+		"meal": "Grilled Pork Chops with Mixed Vegetable Stir Fry (without shellfish) and Quinoa",
+		"quote": "Fitness is like a relationship. You can't cheat and expect it to work."
+	},
+	"day15": {
+		"workout": ["Dumbbell Bench Press: 3 sets of 12 repetitions", "Dumbbell Flyes: 3 sets of 12 repetitions", "Triceps Dips: 3 sets to failure", "Skull Crushers (with Curl Bar): 3 sets of 12 repetitions"],
+		"meal": "Grilled Pork Chops with Mixed Vegetable Stir Fry (without shellfish) and Quinoa",
+		"quote": "It's going to be a journey. It's not a sprint to get in shape."
+	},
+	"day16": {
+		"workout": ["Elliptical Machine: 30-45 minutes at a moderate pace"],
+		"meal": "Beef Rundown (sans dairy) with Steamed Cabbage and Sweet Potato",
+		"quote": "The body achieves what the mind believes."
+	},
+	"day17": {
+		"workout": ["Bent Over Rows (with Curl Bar): 3 sets of 12 repetitions", "Dumbbell Deadlift: 3 sets of 12 repetitions", "Dumbbell Curls: 3 sets of 12 repetitions", "Hammer Curls: 3 sets of 12 repetitions"],
+		"meal": "Beef Rundown (sans dairy) with Steamed Cabbage and Sweet Potato",
+		"quote": "The last three or four reps is what makes the muscle grow."
+	},
+	"day18": {
+		"workout": ["Elliptical Machine: 30-45 minutes at a higher intensity"],
+		"meal": "Beef Rundown (sans dairy) with Steamed Cabbage and Sweet Potato",
+		"quote": "The pain you feel today will be the strength you feel tomorrow."
+	},
+	"day19": {
+		"workout": ["Dumbbell Squats: 3 sets of 12 repetitions", "Dumbbell Lunges: 3 sets of 12 repetitions each leg", "Dumbbell Shoulder Press: 3 sets of 12 repetitions", "Dumbbell Lateral Raise: 3 sets of 12 repetitions"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "Believe you can and you're halfway there."
+	},
+	"day20": {
+		"workout": ["Rest"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "Be stronger than your excuse."
+	},
+	"day21": {
+		"workout": ["Rest"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "You don't have to be great to start, but you have to start to be great."
+	},
+	"day22": {
+		"workout": ["Dumbbell Bench Press: 3 sets of 12 repetitions", "Dumbbell Flyes: 3 sets of 12 repetitions", "Triceps Dips: 3 sets to failure", "Skull Crushers (with Curl Bar): 3 sets of 12 repetitions"],
+		"meal": "Grilled Pork Chops with Mixed Vegetable Stir Fry (without shellfish) and Quinoa",
+		"quote": "The only bad workout is the one that didn't happen."
+	},
+	"day23": {
+		"workout": ["Elliptical Machine: 30-45 minutes at a moderate pace"],
+		"meal": "Grilled Pork Chops with Mixed Vegetable Stir Fry (without shellfish) and Quinoa",
+		"quote": "Exercise to be fit, not skinny."
+	},
+	"day24": {
+		"workout": ["Bent Over Rows (with Curl Bar): 3 sets of 12 repetitions", "Dumbbell Deadlift: 3 sets of 12 repetitions", "Dumbbell Curls: 3 sets of 12 repetitions", "Hammer Curls: 3 sets of 12 repetitions"],
+		"meal": "Grilled Pork Chops with Mixed Vegetable Stir Fry (without shellfish) and Quinoa",
+		"quote": "Sweat is fat crying."
+	},
+	"day25": {
+		"workout": ["Elliptical Machine: 30-45 minutes at a higher intensity"],
+		"meal": "Beef Rundown (sans dairy) with Steamed Cabbage and Sweet Potato",
+		"quote": "Fitness is not about being better than someone else. It's about being better than you used to be."
+	},
+	"day26": {
+		"workout": ["Dumbbell Squats: 3 sets of 12 repetitions", "Dumbbell Lunges: 3 sets of 12 repetitions each leg", "Dumbbell Shoulder Press: 3 sets of 12 repetitions", "Dumbbell Lateral Raise: 3 sets of 12 repetitions"],
+		"meal": "Beef Rundown (sans dairy) with Steamed Cabbage and Sweet Potato",
+		"quote": "The best way to predict the future is to create it."
+	},
+	"day27": {
+		"workout": ["Rest"],
+		"meal": "Beef Rundown (sans dairy) with Steamed Cabbage and Sweet Potato",
+		"quote": "It never gets easier, you just get better."
+	},
+	"day28": {
+		"workout": ["Rest"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "The only limit to the height of your achievements is the reach of your dreams and your willingness to work for them."
+	},
+	"day29": {
+		"workout": ["Dumbbell Bench Press: 3 sets of 12 repetitions", "Dumbbell Flyes: 3 sets of 12 repetitions", "Triceps Dips: 3 sets to failure", "Skull Crushers (with Curl Bar): 3 sets of 12 repetitions"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "Don't limit your challenges, challenge your limits."
+	},
+	"day30": {
+		"workout": ["Elliptical Machine: 30-45 minutes at a moderate pace"],
+		"meal": "Jamaican Jerk Chicken with Steamed Broccoli and Brown Rice",
+		"quote": "Strength does not come from physical capacity. It comes from an indomitable will."
+	}
+}
