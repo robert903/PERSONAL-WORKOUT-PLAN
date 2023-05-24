@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
         .then(data => {
             let startDate = new Date('2023-05-23');
             let today = new Date();
-            let dayNumber = Math.ceil((today - startDate) / (1000 * 60 * 60 * 23)) ;
+            let dayNumber = Math.ceil((today - startDate) / (1000 * 60 * 60 * 24)) ;
 
             if (dayNumber >= 1 && dayNumber <= 30) {
                 let workoutData = data['day' + dayNumber];
