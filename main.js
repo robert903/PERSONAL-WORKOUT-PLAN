@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     fetch('data.json')
         .then(response => response.json())
         .then(data => {
-            let startDate = new Date('2023-05-22');
+            let startDate = new Date('2023-05-24');
             let today = new Date();
             let dayNumber = Math.ceil((today - startDate) / (1000 * 60 * 60 * 24));
 
